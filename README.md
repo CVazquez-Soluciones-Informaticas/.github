@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2 align="center">👋 Bienvenido a [CVázquez Soluciones Informáticas](https://www.cvazquez.es) </h2>
+<h2 align="center">👋 Bienvenido a CVázquez Soluciones Informáticas</h2>
 <h3 align="center">Soluciones Informáticas a medida y personalizadas, para las necesidades de tu negocio o de forma particular, el soporte informático en las mejores manos</h3>
 <h3 align="center">• Aplicaciones • Cloud • Diseño • Mantenimiento • Redes • Seguridad • Sistemas • Web</h3>
 <br>
@@ -24,9 +24,10 @@ Here are some ideas to get you started:
 - 🔭 Actualmente estamos buscando __nuevos clientes__ 😉
 - 🌱 Concienciados con un mundo más __sostenible__
 - 👯 Estamos felices de colaborar en proyectos relacionados con __sistemas / seguridad / hacking__
-- 📫 Puedes contactarnos a través de nuestra [web](https://www.cvazquez.es/web/contacto), de nuestro correo [info@cvazquez.es](mailto:info@cvazquez.es) y de nuestras redes [Twitter](https://twitter.com/CVazquez__) y [Facebook](https://www.facebook.com/CVazquezSolucionesInformaticas)
+- 📫 Puedes contactarnos a través de nuestra [web desde el apartado de contacto](https://www.cvazquez.es/web/contacto), de nuestro correo [info@cvazquez.es](mailto:info@cvazquez.es) y de nuestras redes sociales como [Twitter](https://twitter.com/CVazquez__) y [Facebook](https://www.facebook.com/CVazquezSolucionesInformaticas)
+- ⚡ Si quieres estar al dia de todas nuestras novedades no olvides de visitarnos en https://www.cvazquez.es/ o suscribirte a nuestro boletin de noticias en [https://www.cvazquez.es/newsletter/](https://www.cvazquez.es/newsletter/)
 
-<h3 align="left">¿Quiere apoyarme a mí o a mis proyectos?</h3>
+<h3 align="left">¿Quieres apoyarnos?</h3>
 
 Siéntete libre de donar lo que quieras a las siguientes direcciones:
 

@@ -18,14 +18,54 @@ Here are some ideas to get you started:
 <br>
 <h3 align="left">¿Qué estoy  haciendo aquí?</h3>
 
-<!--
-- 🔭 I’m currently working on [nmap-webui](https://github.com/cvc90/nmap-webui), [libvirt-web](https://github.com/cvc90/libvirt-web), [vuls-scripts](https://github.com/cvc90/vuls-scripts) and [clamav-desktop](https://github.com/cvc90/clamav-desktop)
--->
 - 🔭 Actualmente estamos buscando __nuevos clientes__ 😉
 - 🌱 Concienciados con un mundo más __sostenible__
 - 👯 Estamos felices de colaborar en proyectos relacionados con __sistemas / seguridad / hacking__
 - 📫 Puedes contactarnos a través de nuestra [web desde el apartado de contacto](https://www.cvazquez.es/web/contacto), de nuestro correo [info@cvazquez.es](mailto:info@cvazquez.es) y de nuestras redes sociales como [Twitter](https://twitter.com/CVazquez__) y [Facebook](https://www.facebook.com/CVazquezSolucionesInformaticas)
 - ⚡ Si quieres estar al dia de todas nuestras novedades no olvides de visitarnos en https://www.cvazquez.es/ o suscribirte a nuestro boletin de noticias en [https://www.cvazquez.es/newsletter/](https://www.cvazquez.es/newsletter/)
+
+<h3 align="left">Aprendizaje | Usando 🧠</h3>
+
+<code><a href="https://www.w3.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a></code> 
+<code><a href="https://www.w3.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></a></code> 
+<code><a href="https://www.php.net/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></a></code>
+<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
+<code><a href="https://www.laravel.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"></a></code>
+<code><a href="https://www.arduino.cc/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg"></a></code>
+<code><a href="https://docs.microsoft.com/tr-tr/dotnet/welcome" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></a></code>
+<code><a href="https://java.com" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></a></code>
+<code><a href="https://tr.wordpress.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg"></a></code>
+<code><a href="https://code.visualstudio.com" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a></code> 
+<code><a href="https://www.gnu.org/software/bash/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></a></code>
+<code><a href="https://www.phpmyadmin.net/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg"></a></code>
+<code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></a></code> 
+<code><a href="https://syncthing.net/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/syncthingnet/syncthingnet-ar21.svg"></a></code>
+<code><a href="https://amp.dev/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/ampproject/ampproject-ar21.svg"></a></code>
+<code><a href="https://adguard.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/adguard/adguard-ar21.svg"></a></code> 
+<code><a href="https://www.android.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></a></code>
+<code><a href="https://www.linux.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
+<code><a href="https://bitwarden.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/bitwarden/bitwarden-ar21.svg"></a></code> 
+<code><a href="https://getbootstrap.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></a></code>
+<code><a href="https://www.zoho.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/zoho/zoho-ar21.svg"></a></code>
+<code><a href="https://www.w3.org/XML" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/w3c_xml/w3c_xml-ar21.svg"></a></code>
+<code><a href="https://www.nginx.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg"></a></code>
+<code><a href="https://www.mysql.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a></code>
+<code><a href="http://www.freenom.world" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/freenomworld/freenomworld-ar21.svg"></a></code>
+<code><a href="https://github.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></a></code>
+<code><a href="https://cloud.google.com" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></a></code>
+<code><a href="https://grafana.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/grafana/grafana-ar21.svg"></a></code>
+<code><a href="https://www.influxdata.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/influxdata/influxdata-ar21.svg"></a></code>
+<code><a href="https://jquery.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg"></a></code>
+<code><a href="https://www.torproject.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/torproject/torproject-ar21.svg"></a></code>
+<code><a href="https://www.raspberrypi.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-ar21.svg"></a></code>
+<code><a href="https://www.plex.tv/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/plextv/plextv-ar21.svg"></a></code>
+<code><a href="http://www.postgresql.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></a></code>
+<code><a href="https://aws.amazon.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></a></code>
+<code><a href="https://prometheus.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-ar21.svg"></a></code>
+<code><a href="https://nodejs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></a></code>
+<code><a href="https://letsencrypt.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/letsencrypt/letsencrypt-ar21.svg"></a></code>
+<code><a href="https://www.cloudflare.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-ar21.svg"></a></code>
+<code><a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
 
 <h3 align="left">¿Quieres apoyarnos?</h3>
 

@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h2 align="center">👋 Welcome to CVázquez Soluciones Informáticas</h2>
+<h2 align="center"><a href="https://www.cvazquez.es/" target="_blank"><img height="250" alt="Logo CVázquez Soluciones Informáticas" src="https://github.com/CVazquez-Soluciones-Informaticas/.github/assets/76731844/3c84cdfd-4578-4621-b0a1-1ec474e389e8"></a></h2>
 <h3 align="center">Tailor-made and personalized IT solutions, for the needs of your business or in particular, IT support in the best hands</h3>
 <h3 align="center">• Applications • Cloud • Design • Maintenance • Networks • Security • Systems • Web</h3>
 <br>
@@ -79,6 +80,7 @@ Feel free to donate whatever you want to the following addresses:
 - RTM: `RWRYFXpXwrWnWFzPSrp4oyCV6QYaWD3eqX`
 <br>
 <h2 align="center">👋 Bienvenido a CVázquez Soluciones Informáticas</h2>
+<h2 align="center"><a href="https://www.cvazquez.es/" target="_blank"><img height="250" alt="Logo CVázquez Soluciones Informáticas" src="https://github.com/CVazquez-Soluciones-Informaticas/.github/assets/76731844/3c84cdfd-4578-4621-b0a1-1ec474e389e8"></a></h2>
 <h3 align="center">Soluciones Informáticas a medida y personalizadas, para las necesidades de tu negocio o de forma particular, el soporte informático en las mejores manos</h3>
 <h3 align="center">• Aplicaciones • Cloud • Diseño • Mantenimiento • Redes • Seguridad • Sistemas • Web</h3>
 <br>

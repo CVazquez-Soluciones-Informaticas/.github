@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h2 align="center">👋 Welcome to CVázquez Soluciones Informáticas</h2>
+<h2 align="center"><a href="https://www.cvazquez.es/" target="_blank"><img height="250" alt="Logo CVázquez Soluciones Informáticas" src="https://github.com/CVazquez-Soluciones-Informaticas/.github/assets/76731844/3c84cdfd-4578-4621-b0a1-1ec474e389e8"></a></h2>
 <h3 align="center">Tailor-made and personalized IT solutions, for the needs of your business or in particular, IT support in the best hands</h3>
 <h3 align="center">• Applications • Cloud • Design • Maintenance • Networks • Security • Systems • Web</h3>
 <br>
@@ -21,7 +22,7 @@ Here are some ideas to get you started:
 - 🔭 We are currently looking for __new clients__ 😉
 - 🌱 Aware of a more __sustainable__ world
 - 👯 We are happy to collaborate on projects related to __systems / security / hacking__
-- 📫 You can contact us through our [website from the contact section](https://www.cvazquez.es/web/contacto), our email [info@cvazquez.es](mailto:info@cvazquez.es ) and our social networks such as [Twitter](https://twitter.com/CVazquez__) and [Facebook](https://www.facebook.com/CVazquezSolucionesInformaticas)
+- 📫 You can contact us through our [website from the contact section](https://www.cvazquez.es/web/contacto), our email [info@cvazquez.es](mailto:info@cvazquez.es) and our social networks such as [Twitter](https://twitter.com/CVazquez__) and [Facebook](https://www.facebook.com/CVazquezSolucionesInformaticas)
 - ⚡ If you want to keep up to date with all our news, do not forget to visit us at https://www.cvazquez.es/ or subscribe to our newsletter at [https://www.cvazquez.es/newsletter/](https://www.cvazquez.es/newsletter/)
 
 <h3 align="left">Learning | Using 🧠</h3>
@@ -79,6 +80,7 @@ Feel free to donate whatever you want to the following addresses:
 - RTM: `RWRYFXpXwrWnWFzPSrp4oyCV6QYaWD3eqX`
 <br>
 <h2 align="center">👋 Bienvenido a CVázquez Soluciones Informáticas</h2>
+<h2 align="center"><a href="https://www.cvazquez.es/" target="_blank"><img height="250" alt="Logo CVázquez Soluciones Informáticas" src="https://github.com/CVazquez-Soluciones-Informaticas/.github/assets/76731844/3c84cdfd-4578-4621-b0a1-1ec474e389e8"></a></h2>
 <h3 align="center">Soluciones Informáticas a medida y personalizadas, para las necesidades de tu negocio o de forma particular, el soporte informático en las mejores manos</h3>
 <h3 align="center">• Aplicaciones • Cloud • Diseño • Mantenimiento • Redes • Seguridad • Sistemas • Web</h3>
 <br>
